@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [ techs that i've used before ]  
+### [ teches that i've used before ]  
 <div align="center"><img src="https://img.shields.io/badge/Python-skyblue?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-ROS-navy"/></div>
 
 ---
