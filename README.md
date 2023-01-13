@@ -43,7 +43,3 @@
   </p> -->
 <br>
 <br>
-
-## 📋 My GitHub stats
-![Suyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=twotwobread&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twotwobread&layout=compact&theme=tokyonight)
