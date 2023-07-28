@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Hi✋%20I'm%20Twotwobread&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 
-<div align='center'> 💻 백엔드 개발자 지망생 💻 </div>
+<div align='center'> 💻 신입 백엔드 개발자 💻 </div>
 <br>
-<div align='center'> Email : 21720943@yu.ac.kr </div>
+<div align='center'> Email : dltndud9137@naver.com </div>
 <div align='center'> Blog : <a href="https://gnuoyus.tistory.com/">gnuoyus.tistory.com</a></div>
 <br>
 <p align="center">
